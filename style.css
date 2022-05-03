@@ -1,0 +1,9 @@
+html {
+  /* To avoid padding from extending the width of the page */
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+}
